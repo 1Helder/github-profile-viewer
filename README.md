@@ -58,8 +58,8 @@ npm run dev
 
 ## 🌐 Deploy
 
-Você pode acessar o projeto online:
-👉 
+Acesse👉: https://github-profile-viewer-eight-nu.vercel.app/
+ 
 
 ---
 
