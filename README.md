@@ -10,7 +10,7 @@ Aplicação web que permite buscar e visualizar perfis do GitHub de forma rápid
   <img src="./src/assets/demo1.gif" width="900"/>
 
 ## 📱Mobile
-  <img src="./src/assets/demo2.gif"/>
+  <img src="./src/assets/demo2.gif" height="500"/>
 
 ---
 
