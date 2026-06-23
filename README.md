@@ -6,10 +6,11 @@ Aplicação web que permite buscar e visualizar perfis do GitHub de forma rápid
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="./src/assets/demo1.gif" width="400"/>
-  <img src="./src/assets/demo2.gif" width="400"/>
-</p>
+
+  <img src="./src/assets/demo1.gif" width="900"/>
+
+## 📱Mobile
+  <img src="./src/assets/demo2.gif"/>
 
 ---
 
